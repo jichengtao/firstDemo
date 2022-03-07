@@ -3,6 +3,11 @@ s
 ss
 sss
 ss
+<<<<<<< HEAD
 
 
 sdf
+=======
+sssdsdfgds
+dfg
+>>>>>>> first_branch
